@@ -74,12 +74,10 @@ a:hover {
 }
 
 .email:after {
-    content: url('img/mail.png');
     margin-left:0.3em;
 }
 
 .url:after {
-    content: url('img/url.png');
     margin-left:0.3em;
 }
 
